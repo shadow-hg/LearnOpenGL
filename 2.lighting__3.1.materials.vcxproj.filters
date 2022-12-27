@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Study\cmk\src\2.lighting\3.1.materials\materials.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Study\cmk\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Study\cmk\src\2.lighting\3.1.materials\3.1.light_cube.fs" />
+    <None Include="E:\Study\cmk\src\2.lighting\3.1.materials\3.1.light_cube.vs" />
+    <None Include="E:\Study\cmk\src\2.lighting\3.1.materials\3.1.materials.fs" />
+    <None Include="E:\Study\cmk\src\2.lighting\3.1.materials\3.1.materials.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{291F333A-32C0-3013-8389-1DB7E917F998}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
